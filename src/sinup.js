@@ -1,17 +1,23 @@
 
-functon sinup{
+function Sinup(){
 
 
   return(
 
-    <sinup/>
-    <h1> hi saraswthi</h1>
+    
+    <div>
+
+      < sinup/>
+      <h1> Hi saraswathi</h1>
+
+    </div>
+    
   )
 
 
 }
 
-export defult singup
+export default Sinup
 
 
 
